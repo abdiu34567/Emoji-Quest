@@ -10,7 +10,12 @@ Emoji Quest is an engaging Telegram bot game designed to be enjoyed right from y
 - **Unlimited Gameplay:** There's no limit to the number of times you can dive into the Emoji Quest, providing endless entertainment for players.
 - **Unique Emoji Challenge:** The game generates a distinctive emoji sequence of length 7, and the player who responds with the exact sequence within the time limit claims victory.
 
+<br>
+
 **Screenshots:**
+
+<br>
+
 ![Screenshoot 1](assets/EMOJI%20QUEST.png)
 
 ![Screenshoot 1](assets/EMOJI%20QUEST%202.png)
